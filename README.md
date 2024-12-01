@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kulanya Lisaldi</h1>
-<h3 align="center">I'm Kulanya an aspiring IT professional currently studying at SlIIT. Withing these pages, you will find my projects, experiences and skills.</h3>
+<h3 align="center">I'm Kulanya an aspiring IT professional currently studying at SLIIT. Withing these pages, you will find my projects, experiences and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulanyalisaldi&label=Profile%20views&color=0e75b6&style=flat" alt="kulanyalisaldi" /> </p>
 
