@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kulanya Lisaldi</h1>
-<h3 align="center">I'm Kulanya an aspiring IT professional currently studying at SLIIT, passionate about technology, software development, and creating innovative solutions. With a solid foundation in web development, including HTML, CSS, JavaScript, PHP and Java.<br><br>I'm continuously expanding my skills. <br><br> check out my repositories to see what I'm working on!</h3>
+<h3 align="center">Passionate about data analysis, machine learning, statistics, and modern web technologies. Eager to build innovative, real-world solutions through web and mobile application development.<br><br>I'm continuously expanding my skills. <br><br> check out my repositories to see what I'm working on!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulanyalisaldi&label=Profile%20views&color=0e75b6&style=flat" alt="kulanyalisaldi" /> </p>
 
